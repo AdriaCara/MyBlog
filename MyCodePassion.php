@@ -1,5 +1,5 @@
 <?php
-    require 'header.php';
+    require 'headerPost.php';
 
     require 'footer.php';
 ?>
