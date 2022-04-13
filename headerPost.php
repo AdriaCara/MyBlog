@@ -15,7 +15,7 @@
     <!-- Navbar -->
     <nav class="navbar-expand-lg navbar navbar-dark bg-dark">
         <div class="container-fluid">
-          <img src="./logos/Logo.png" href="./index.html" class="img-thumbnail" style="width: 8%;" alt="">
+        <a class="blog-header-logo text-dark" href="index.html"><img class="d-block border border-3 border-white" src="./logos/Logo.png" width="20%"></a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
