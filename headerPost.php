@@ -23,10 +23,10 @@
       <header class="blog-header py-3 justify-content-between">
         <div class="row flex-nowrap">
           <div class="col-4">
-            <a class="blog-header-logo text-dark" href="index.php"><img class="d-block border border-3 border-white" src="./logos/Logo.png" width="30%"></a>
+            <a class="blog-header-logo text-dark" href="index.html"><img class="d-block border border-3 border-white" src="./logos/Logo.png" width="30%"></a>
           </div>
           <div class="col-4 text-center" style="margin-top: 4%;">
-            <a class="blog-header-logo text-white" href="./index.php" style="font-size: 150%;">El blog de Adrià Cara</a>
+            <a class="blog-header-logo text-white" href="./index.html" style="font-size: 150%;">El blog de Adrià Cara</a>
           </div>
         </div>
       </header>
