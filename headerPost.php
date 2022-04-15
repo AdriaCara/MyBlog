@@ -16,7 +16,7 @@
     <title>My Blog</title>
 </head>
 
-<body class="bg-dark">
+<body style="background-color: #180F29;">
 
     <!-- Navbar -->
     <div class="container">
