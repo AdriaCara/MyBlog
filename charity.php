@@ -18,7 +18,10 @@
         <p class="m-3">
             En mi caso muchas veces doy algo de dinero porque no me cuesta nada, incluso a veces casi me se aprovechan de mi por ello.
             <br />
-            A veces me pregunto si mi acto de <b>caridad</b> es altruismo o por comprarme un momento de bienestar conmigo mismo?
+            A veces me pregunto si mi acto de <b>caridad</b> es altruismo o por comprarme un momento de bienestar conmigo mismo?, lo hago por lastima o por si algun dia soy yo el que pide?
+            <br />
+            <br />
+            En mi caso no creo en el karma ni en poderes sobrecientificos que sobrepasen logica alguna
         </p>
     </div>
     <div class="d-flex text-white border border-5 border-dark" style="width: 75%; background-color: #29164B; margin-top: 1%;">
