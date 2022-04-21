@@ -33,10 +33,10 @@
 
       <div class="nav-scroller py-1 mb-2">
         <nav class="nav d-flex justify-content-between">
-          <a class="p-2 link-light" href="https://adriacara.github.io/portfolio/">Mi portafolio</a>
-          <a class="p-2 link-light" href="https://github.com/AdriaCara">Mi Github</a>
-          <a class="p-2 link-light" href="https://mastodon.social/web/@adriaProgrammer">Mi Mastodon</a>
-          <a class="p-2 link-light" href="https://www.linkedin.com/in/adriacara/">Mi Linkedin</a>
+          <a class="p-2 link-light" href="./MyCodePassion.php">Mi pasion por la programación</a>
+          <a class="p-2 link-light" href="./charity.php">Caridad</a>
+          <a class="p-2 link-light" href=""></a>
+          <a class="p-2 link-light" href=""></a>
           <a class="p-2 link-secondary" href="#"></a>
           <a class="p-2 link-secondary" href="#"></a>
           <a class="p-2 link-secondary" href="#"></a>

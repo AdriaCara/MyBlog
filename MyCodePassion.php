@@ -10,7 +10,7 @@
     <div class="d-flex text-white border border-5 border-dark" style="width: 75%; background-color: #29164B;">
         <p class="m-3">
             La programación actualmente se ha convertido en una profesion muy solicitada por todas las empresas, es raro
-            ver a un negocio sin redes sociales y mucha más sin una pagina propia.
+            ver a un negocio sin redes sociales y mucho más sin una pagina propia.
             <br />
             <br />
             Muchas personas aprovechando la oportunidad han empezado a estudiar lenguajes de progrmación y trabajar de
